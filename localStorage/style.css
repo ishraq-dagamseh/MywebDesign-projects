@@ -1,0 +1,18 @@
+body{
+    flex-direction: column;
+    background-color:brown;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+p{
+    border-radius: 23px 0; /* Valid shorthand for border radius */
+    padding: 10px;         /* 'auto' is invalid for padding */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5); /* Offset, blur, and color required */
+    border: 1px solid black; /* Separate shorthand property for borders */
+
+}

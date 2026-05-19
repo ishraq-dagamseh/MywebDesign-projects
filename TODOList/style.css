@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    /*border: 12px solid blueviolet;
+    box-shadow: 0 0 14px gray;*/
+    background-color: blueviolet ;
+    
+
+      
+}
+
+
+input {
+    padding: 10px;
+    width: 200px;
+}
+button{
+    cursor: pointer;
+    background-origin: padding-box;
+    border-radius: 6px;
+    color: blueviolet;
+}
+.done {
+    text-decoration: line-through;
+}
