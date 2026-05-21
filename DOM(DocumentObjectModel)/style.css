@@ -17,12 +17,12 @@ form{
     padding: 20px;         /* 'auto' is invalid for padding */
     box-shadow: 0 4px 6px rgba(7, 65, 31, 0.5); /* Offset, blur, and color required */
     border: 1px solid rgb(8, 65, 48); /* Separate shorthand property for borders */
-    padding: 20px;
+    padding: 50px;
     display: flex;
     flex-direction: column;
     gap: 15px;                /* Space between fields */
     min-width: 300px;
-
+    background-color: white;
 
 }
 
@@ -30,11 +30,15 @@ div{
     display: flex;
     align-items: center;
     gap: 10px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serifs;
 
 }
 #btn{
  
     justify-content: center;
+    font-size: larger;
+
    
 
 }
