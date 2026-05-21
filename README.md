@@ -13,4 +13,13 @@ then the task will appear in the bottom with edit abd delete buttons.
 
 Next image show how the user can edit this tasks after appearing and choose the edit button
 <img width="1242" height="491" alt="image" src="https://github.com/user-attachments/assets/f53b434a-318a-48b7-b82d-9e98582a4ec4" />
+3. DOM( Document Object Model) project:
+In this project, we used several JavaScript methods and features to access and modify web page and HTML content.
+Specifically, we used the HTML file that called: validationform, to enable the system to control the sign in process and ensure that no empty value is entered in the name field. This was achieved by using the 'document.forms' function to link the form in the HTML file to a JavaScript file that contains a conditional expression guaranteeing that no empty value is entered in the name field, in addition to a PHP file to enable the server to ensure the same process. The next Image is our page shape 
+<img width="1287" height="621" alt="image" src="https://github.com/user-attachments/assets/03cc955f-f5c4-4a7b-b517-b40b9307fd0f" />
+# How the user will interact with the page:
+The next image show what will appear when press on the submit button and we didnt enter any values in the email or passward fields, because we used properities for this inputs as a required.
+<img width="917" height="540" alt="image" src="https://github.com/user-attachments/assets/2f1aba89-64a6-4a8a-affd-3c62680b0b28" />
+The following image shows what will appear to the user if they do not enter a name.
+<img width="1196" height="587" alt="image" src="https://github.com/user-attachments/assets/323f4ebd-853e-4e0e-bdd2-5f391807b510" />
 
