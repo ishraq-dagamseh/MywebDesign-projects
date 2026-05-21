@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: green;
+    min-height: 100vh;          /* Fill full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+form{
+    border-radius: 23px ; /* Valid shorthand for border radius */
+    padding: 20px;         /* 'auto' is invalid for padding */
+    box-shadow: 0 4px 6px rgba(7, 65, 31, 0.5); /* Offset, blur, and color required */
+    border: 1px solid rgb(8, 65, 48); /* Separate shorthand property for borders */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;                /* Space between fields */
+    min-width: 300px;
+
+
+}
+
+div{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+#btn{
+ 
+    justify-content: center;
+   
+
+}
